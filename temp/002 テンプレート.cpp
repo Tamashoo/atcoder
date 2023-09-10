@@ -4,11 +4,5 @@ using namespace std;
 #define LL long long
 
 int main(){
-	// sengen
-	
-	// nyuryoku
 
-	// keisan
-
-	// syutsuryoku
 }
